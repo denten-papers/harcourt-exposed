@@ -42,7 +42,33 @@ we will enter into the machine willingly. We will demand entrance. And we will
 show.
 
 Short of reading out loud, I cannot do justice to the full complexity of the
-book. Allow me instead to offer a few illustrations and to dwell on its
+book. Allow me instead to offer a few illustrations and to dwell on it
 conclusions. Two devices immediately 
 
+Google OnHub "OnHub’s innovative circular antenna design provides reliable
+Wi-Fi coverage in more directions in your home." 
 
+In a paper published in the Association for Computing Machinery's Special
+Interest Group on Data Communications 2013 proceedings.
+
+" Wi-Vi is a new technology
+that enables seeing through walls using Wi-Fi signals. It allows us to track
+moving humans through walls and behind closed doors. Wi-Vi relies on capturing
+the reflections of its own transmitted signals off moving objects behind a
+wall in order to track them. Wi-Vi's operation does not require access to any
+device on the other side of the wall."  Fadel Adib      Dina Katabi  from Mit.
+
+13 antenas.
+
+Amazon Echo "Tucked under the light ring on Echo is an array of seven
+microphones. These sensors use beam-forming technology to hear you from any
+direction."
+
+"Please be aware that if your spoken words include personal or other
+sensitive information, that information will be among the data captured and
+transmitted to a third party through your use of Voice Recognition," Samsung
+said in its terms and conditions policy." Samsung.
+
+Just a few year. Build a patient case.
+
+Possibility of dissent.
