@@ -36,14 +36,16 @@ this structure frustrates our intuitions about spectacle, surveillance, and
 control. We live in an expository society, Bernard writes, in a society of
 exposure and exhibition. In this perverse light, the inability to expose
 oneself seems like punishment. And to be watched is a reward. Thus begins the
-book: neither Deleuze nor Foucault. Expository power, he calls it. No need for
-bars nor cells or watchtowers (this is on page 17, if you are following along)
-we will enter into the machine willingly. We will demand entrance. And we will
-show.
+book: neither Deleuze nor Foucault nor Orwell. Expository power, he calls it.
+No need for bars nor cells or watchtowers (this is on page 17, if you are
+following along) we will enter into the machine willingly. We will demand
+entrance. And we will show.
 
 Short of reading out loud, I cannot do justice to the full complexity of the
-book. Allow me instead to offer a few illustrations and to dwell on it
-conclusions. Two devices immediately 
+book. Allow me instead to offer a few illustrations, as footnotes to proceed
+directly to the challenge that this book presents to us, readers. 
+
+Two devices immediately 
 
 Google OnHub "OnHub’s innovative circular antenna design provides reliable
 Wi-Fi coverage in more directions in your home." 
@@ -69,9 +71,28 @@ sensitive information, that information will be among the data captured and
 transmitted to a third party through your use of Voice Recognition," Samsung
 said in its terms and conditions policy." Samsung.
 
-Just a few year. Build a patient case.
+Just a few years ago, the suggestion that such devices would be in use for
+surveillance, the strange collusion that Bernard describes between private and
+public instruments of surveillance, a collusion that Bernard suggests
+reconfigures the very notion of the modern state, that suggestion, shuffled
+into a tin foil hat, would occupy the paranoid fringes of intellectual
+conversation. Today, we do not even blink in response. The state of affairs
+that Bernard carefully describes in the middle portions of the book builds an
+overwhelming case for the contemporary condition of expository society.
 
-Possibility of dissent.
+Two research papers. Echolocation and seeing through walls with wifi.
+
+
+
+Possibility of dissent. Turn the camera around. We 
 
 One day the Echo will fill our rooms with "360° omni-directional audio to fill
 the room with immersive sound."
+
+"Cure and hollow out the individual"
+"mini-theaters of consumption"
+"knots of state-like power"
+"mortification of self, ceding privacy"
+
+We, the academic community, have long prided ourselves for intellectual
+freedom.
