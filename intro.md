@@ -41,4 +41,8 @@ bars nor cells or watchtowers (this is on page 17, if you are following along)
 we will enter into the machine willingly. We will demand entrance. And we will
 show.
 
+Short of reading out loud, I cannot do justice to the full complexity of the
+book. Allow me instead to offer a few illustrations and to dwell on its
+conclusions. Two devices immediately 
+
 
