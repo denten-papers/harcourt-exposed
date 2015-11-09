@@ -72,3 +72,6 @@ said in its terms and conditions policy." Samsung.
 Just a few year. Build a patient case.
 
 Possibility of dissent.
+
+One day the Echo will fill our rooms with "360° omni-directional audio to fill
+the room with immersive sound."
