@@ -46,7 +46,8 @@ scale that reaches ubiquitously past prisons into open space. The condition of
 willful exposure Harcourt describes in his book challenges well-worn tropes of
 critical theory. Harcourt begins by noting that we inhabit nether Guy Dubord's
 "society of spectacle" nor Michel Foucault's "punitive society." Rather, the
-book documents the emergence of a "new architecture of power relations." 
+book documents the emergence of a "new architecture of power relations,"
+"knots of state-like power," and "mini-theaters of consumption."
 
 A new logic of watching and being watched brings with it novel companions: the
 body double in the reflection of our devices, the quantified self, the ever
@@ -84,19 +85,35 @@ is not clear who is in charge in the glass pavilion. It is a place to watch
 and be watched; to play and to surveil. Instead of the uncanny and devious
 body double impostor, Harcourt gives us the data double. The data double lives
 in the statistics of criminal justice but also in social media and
-advertisement.
+in advertisement.
 
-I cannot do justice to the full weight of evidence carefully presented in this
-volume (short of reading the book out loud as my colleague Manan Ahmed
-suggested). Allow me instead to offer a few technical-theoretical
-illustrations as side-notes and commentary on the middle chapters. And then
-let's proceed to the conclusion, which demands our attention.
+We have only began to understand the personal and political implications of
+the expository society in which surveillance is both more total and more
+voluntary that was every imagined. The nightmare of Orwell's 1984 is in some
+ways less intrusive than the reality of 2016. Harcourt book ultimately points
+to the desire at the root of our need for exposure. Total surveillance turns
+out to be pretty fun. You get see the kind of weird shit you always suspected
+people did in private. And you get to share your weirdness knowing that you
+are not really alone. The desire at the center of the voluntary surveillance
+conundrum leads to a truly staggering insight. Harcourt writes, and I am
+there with him, about the not-too distant possibility of a future in which
+there will be no need to incarcerate. "We will all be watched closely," he
+writes. "We won't need to confine anyone, because we will be able to see
+everywhere" and perhaps even "control behavior from a distance."
 
-I submit two devices for your consideration. Both came on the market this
-year. And both were introduced by some of the largest private entities
-implicated in Bernard's story: Google and Amazon.[^ln-samsung]
+Reading Harcourt's work reminds me of the distance between the realms of tin
+foil hat conspiracy and science fiction yesterday is the pleasant everyday
+reality of today. A few technical
 
-\- Google OnHub, "A new type of router for the new way to Wi-Fi," Remarkable
+Rather than repeating its contents, I would like to offer
+several technical footnotes on expository society not found in the book. I
+submit two devices for your consideration. Both came on the market in 2015.
+Both were introduced by some of the largest private entities implicated in
+Harcourt's story: Google and Amazon.[^ln-samsung]
+
+The first o
+
+OnHub, "A new type of router for the new way to Wi-Fi," Remarkable
 for its "innovative circular antenna design," which "provides reliable Wi-Fi
 coverage in more directions in your home." A tear-down of the device by
 engineers at IFIXIT revealed 13 antennas, along with an ambient light sensor
@@ -210,7 +227,5 @@ Samsung said in its terms and conditions policy."
 ## Notes
 
 "Cure and hollow out the individual"
-"mini-theaters of consumption"
-"knots of state-like power"
 "mortification of self, ceding privacy"
 "Turn the camera around"
