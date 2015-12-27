@@ -1,48 +1,90 @@
-Allow me to start with a story. During this summer I had the chance to spend a
-few short hours at Riker's Island Correctional Facility together with a select
-group of students and collogues, which on at least one occasion included
-Bernard's partner, Mia. We were there ostensibly for an educational program.
-Our project, Rikers Bot, combined a programming workshop and a storytelling
-group. More importantly, we were there to spend a bit of time with the young
-people of Rikers. It was an encounter with the penal system in the midst of
-our community.
+Last summer I spent a few short hours at Riker's Island Correctional Facility
+together with a small group of volunteers from Columbia University.  We were
+there ostensibly to run an educational program. Wanting to move away from
+traditional classroom arrangements, we conceived of our project, Rikers Bot,
+as a digital storytelling event, combining elements of a programming workshop
+and a writers group. The idea was to get folks excited about programming, to
+give a measure of voice to those housed at Rikers under sometimes appalling
+conditions, and to give the public at large a glimpse into an otherwise opaque
+institution. Most importantly, we were there to spend a bit of time with the
+young people of Rikers. It was an encounter with the penal system in the midst
+of our community.
 
 Even in the best of times, entering Rikers is not easy. One goes through a
 series of gates and checkpoints. One laminated card is exchanged for another.
 The guard stamps a mark on your wrist using invisible ink.
 
-But the jail was also not what I expected from the Foucauldian image of the
-panopticon. I thought that once inside, I would observe the state of total
-surveillance. Instead, we were all struck by the dilapidated, almost abandoned
-feeling of the facility grounds. At one point, a young guard, not in uniform
-yet, on the way to start her shift, ushered us in quickly and probably against
-protocol. She led us through rooms filled with well-used riot gear, past
-guards eating breakfast, through hallways lined with posters about job safety,
-potlucks, charity football games.
+But the jail was also not what I expected. I thought that once inside, I would
+observe the state of total surveillance. Conditioned by the Foucauldian image
+of the panopticon I expected to see docile bodies, the control of activity,
+hierarchical observation, the panopticon. Instead, we were all struck by the
+dilapidated, almost abandoned feeling of the facility grounds. At one point, a
+young guard, not in uniform yet, on the way to start her shift, ushered us in
+quickly and probably without following protocol. She led us through rooms
+filled with well-used riot gear, past guards eating breakfast, through
+hallways lined with posters about job safety, potlucks, and charity football
+games.
 
-We were on the way to a wing of the building which housed classrooms. But at
-some point, while walking up a staircase, our guide ducked out into a side
+We were on the way to a wing of the building which housed the classrooms. But
+at some point, while walking up a staircase, our guide ducked out into a side
 door, which locked behind her. Perhaps she went to change into her uniform.
 We waited in the staircase. We knew where we had to go, but the doors ahead of
 us and behind were locked. Standing there quietly, together, we understood
-something about the jail. Despite the guards and cameras, it was not a place
-of total surveillance. The building stood in isolation from the outside world.
-Our presence here was registered by hand in a notebook. We traded our state
-issued identification for a piece of paper and a stamp. We left no digital
-trace. In short, no one really knew we were here.
+something about the jail. Despite the guards and the cameras, it was not a
+place of total surveillance. The building stood in isolation from the outside
+world. Our presence here was registered by hand in a notebook. We traded our
+state issued identification for a piece of paper and a stamp. We left no
+digital trace. In short, no one really knew we were here.
 
-In this lies the fundamental insight of Bernard's book. *Exposed* documents
-the emergence of a fundamentally different kind of order. The congealing
-chrysalis of this emerging structure frustrates long-held intuitions about
-spectacle and surveillance, inside and outside, public and private. We live in
-an expository society, Bernard writes, in a society of willful exposure and
-exhibition. In this perverse light, the inability to expose oneself seems like
-punishment. And the reward for being watched--liked, favorited, followed--is
-personal affirmation. Thus begins the book: neither Deleuze nor Foucault nor
-Orwell capture the dynamics of expository power, as Bernard calls it. There is
-need for bars nor cells or watchtowers (this is on page 17, if you are
-following along) we enter into the hall of mirrors willingly. We will demand
-entrance.  And we reveal ourselves in return.
+A moment of silence in the stairwell punctuated the paradox at the center of
+Bernard Harcourt's recent book, *Exposed: Desire and Disobedience in the
+Digital Age*. Panopticons of incarceration from centuries past pail in
+comparison with those that surround us today. Rather than acquiescing to
+structures of command and surveillance by force, against our will, and in
+confinement, we have surrendered to them voluntarily, without duress, and at
+scale that reaches ubiquitously past prisons into open space. The condition of
+willful exposure Harcourt describes in his book challenges well-worn tropes of
+critical theory. Harcourt begins by noting that we inhabit nether Guy Dubord's
+"society of spectacle" nor Michel Foucault's "punitive society." Rather, the
+book documents the emergence of a "new architecture of power relations." 
+
+A new logic of watching and being watched brings with it novel companions: the
+body double in the reflection of our devices, the quantified self, the ever
+vigilant artificially intelligent personal assistant. Where some wear ankle
+bracelets in punishment, others strap on wrist bracelets in the name of health
+and self discovery. The momentary quiet of a stairway somewhere at Rikers,
+stripped from the noise of cell phones and Twitter feeds, gave me a visceral
+feeling of isolation. Rikers was scary not because it represented order, but
+because compared to my usually compartmentalized and hyper-connected life it
+gave room to violence and disorder. "It sounds like I'm in a zoo with all of
+the birds chirping," wrote one of the young people. "Jail makes us feel
+deprived and cause vagueness---lacking definite form or character," the bot
+tweeted. "All the birds outside the windows make it so hard to hear anything."
+
+The expository society, as Harcourt calls this emerging assemblage of
+technology, practice, norms, and institutions, frustrates long-held intuitions
+about spectacle and surveillance, inside and outside, public and private. We
+live in an expository society, Bernard writes, in a society of willful
+exposure and exhibition. In this perverse light, the inability to expose
+oneself seems like punishment. And the reward for being watched---liked,
+favorited, followed---is personal affirmation. Under the emerging regime there
+is need for bars nor cells nor watchtowers. We enter into the hall of mirrors
+willingly. We will demand entrance. And we reveal ourselves in return.
+
+To make sense of the revealment, Harcourt suggests new metaphors that open new
+critical possibilities. The state is now an oligarchic amalgam of the
+intelligence community, retailers, Silicon Valley, military and corporate
+interests, social media, politics, banking, and telecommunication. No longer a
+big brother, it rather looks like an octopus from the US National
+Reconnaissance Office, one of the country's seventeen intelligence agencies.
+Instead of the panopticon we have the glass mirror pavilion. It does not just
+observe: it gives glimpses, it reflects, distorts, and offers "pockets of
+obscurity." Like the ivory tower, the panopticon represented remote power. It
+is not clear who is in charge in the glass pavilion. It is a place to watch
+and be watched; to play and to surveil. Instead of the uncanny and devious
+body double impostor, Harcourt gives us the data double. The data double lives
+in the statistics of criminal justice but also in social media and
+advertisement.
 
 I cannot do justice to the full weight of evidence carefully presented in this
 volume (short of reading the book out loud as my colleague Manan Ahmed
