@@ -18,12 +18,12 @@ But the jail was also not what I expected. I thought that once inside, I would
 observe the state of total surveillance. Conditioned by the Foucauldian image
 of the panopticon I expected to see docile bodies, the control of activity,
 hierarchical observation, the panopticon. Instead, we were all struck by the
-dilapidated, almost abandoned feeling of the facility grounds. At one point, a
-young guard, not in uniform yet, on the way to start her shift, ushered us in
+dilapidated, almost abandoned feeling of the grounds. At one point, a young
+guard, not in uniform yet, on the way to start her shift, ushered us in
 quickly and probably without following protocol. She led us through rooms
 filled with well-used riot gear, past guards eating breakfast, through
-hallways lined with posters about job safety, potlucks, and charity football
-games.
+hallways lined with hand-written bills about job safety, potlucks, and charity
+football games.
 
 We were on the way to a wing of the building which housed the classrooms. But
 at some point, while walking up a staircase, our guide ducked out into a side
@@ -52,15 +52,16 @@ book documents the emergence of a "new architecture of power relations,"
 A new logic of watching and being watched brings with it novel companions: the
 body double in the reflection of our devices, the quantified self, the ever
 vigilant artificially intelligent personal assistant. Where some wear ankle
-bracelets in punishment, others strap on wrist bracelets in the name of health
-and self discovery. The momentary quiet of a stairway somewhere at Rikers,
-stripped from the noise of cell phones and Twitter feeds, gave me a visceral
-feeling of isolation. Rikers was scary not because it represented order, but
-because compared to my usually compartmentalized and hyper-connected life it
-gave room to violence and disorder. "It sounds like I'm in a zoo with all of
-the birds chirping," wrote one of the young people. "Jail makes us feel
-deprived and cause vagueness---lacking definite form or character," the bot
-tweeted. "All the birds outside the windows make it so hard to hear anything."
+bracelet tracking devices in punishment, others strap on wrist bracelet
+tracking devices in the name of health and self discovery. The momentary quiet
+of a stairway somewhere at Rikers, stripped from the noise of cell phones and
+Twitter feeds, gave me a visceral feeling of isolation. Rikers was scary not
+because it represented order, but because compared to my usually
+compartmentalized and hyper-connected life it gave room to violence and
+disorder. "It sounds like I'm in a zoo with all of the birds chirping," wrote
+one of the young people.  "Jail makes us feel deprived and cause
+vagueness---lacking definite form or character," the bot tweeted. "All the
+birds outside the windows make it so hard to hear anything."
 
 The expository society, as Harcourt calls this emerging assemblage of
 technology, practice, norms, and institutions, frustrates long-held intuitions
@@ -69,23 +70,24 @@ live in an expository society, Bernard writes, in a society of willful
 exposure and exhibition. In this perverse light, the inability to expose
 oneself seems like punishment. And the reward for being watched---liked,
 favorited, followed---is personal affirmation. Under the emerging regime there
-is need for bars nor cells nor watchtowers. We enter into the hall of mirrors
-willingly. We will demand entrance. And we reveal ourselves in return.
+is no need for bars, cells or watchtowers. We enter into the hall of mirrors
+willingly. We demand entrance. And we reveal ourselves in return.
 
-To make sense of the revealment, Harcourt suggests new metaphors that open new
-critical possibilities. The state is now an oligarchic amalgam of the
-intelligence community, retailers, Silicon Valley, military and corporate
-interests, social media, politics, banking, and telecommunication. No longer a
-big brother, it rather looks like an octopus from the US National
-Reconnaissance Office, one of the country's seventeen intelligence agencies.
-Instead of the panopticon we have the glass mirror pavilion. It does not just
-observe: it gives glimpses, it reflects, distorts, and offers "pockets of
-obscurity." Like the ivory tower, the panopticon represented remote power. It
-is not clear who is in charge in the glass pavilion. It is a place to watch
-and be watched; to play and to surveil. Instead of the uncanny and devious
-body double impostor, Harcourt gives us the data double. The data double lives
-in the statistics of criminal justice but also in social media and
-in advertisement.
+To make sense of the revealment, Harcourt suggests metaphors that open as yet
+unexplored critical possibilities. The state is no longer one thing, but many.
+It is an oligarchic "amalgam" of the intelligence community, retailers,
+Silicon Valley, military and corporate interests, social media, politics,
+banking, and telecommunication. No longer a big brother, it rather looks like
+an octopus from the US National Reconnaissance Office, one of the country's
+seventeen intelligence agencies. Instead of the panopticon we have a pavilion
+of glass and mirrors. The pavilion does not just observe: it gives glimpses,
+it reflects, distorts, and offers "pockets of obscurity." Like the ivory
+tower, the panopticon represented power remote and centralized. The pavilion
+is is close and distributed. It is a place to watch and be watched; to play
+and to surveil. Instead of the uncanny body of the impostor double, Harcourt
+gives us the diligent data double. The data double lives in the statistics of
+criminal justice and advertisement. It reports dutifully on our social media
+habits, our moods, movements, and our "click through" ratios.
 
 We have only began to understand the personal and political implications of
 the expository society in which surveillance is both more total and more
@@ -93,12 +95,13 @@ voluntary that was every imagined. The nightmare of Orwell's 1984 is in some
 ways less intrusive than the reality of 2016. Harcourt book ultimately points
 to the desire at the root of our need for exposure. Total surveillance turns
 out to be pretty fun. You get see the kind of weird shit you always suspected
-people did in private. And you get to share your weirdness knowing that you
-are not really alone. The desire at the center of the voluntary surveillance
-conundrum leads to a truly staggering insight. Harcourt writes, and I am
-there with him, about the not-too distant possibility of a future in which
-there will be no need to incarcerate. "We will all be watched closely," he
-writes. "We won't need to confine anyone, because we will be able to see
+people did in private. And you get to share it with friends! This small bit of
+fun turns out to be worth quite a bit. We are willing to trade a large measure
+of privacy in its pursuit. The desire at the center of the voluntary
+surveillance conundrum leads to a truly staggering insight. Harcourt writes,
+and I am there with him, about the not-too distant possibility of a future in
+which there will be no need to incarcerate. "We will all be watched closely,"
+he writes. "We won't need to confine anyone, because we will be able to see
 everywhere" and perhaps even "control behavior from a distance."
 
 Reading Harcourt's work reminds me of the distance between the realms of tin
