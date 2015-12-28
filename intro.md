@@ -1,3 +1,12 @@
+---
+title: "Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age by Bernard Harcourt"
+subtitle: "Ways of Opting Out"
+mainfont: "fbb"
+fontsize: 12pt
+documentclass: article
+
+---
+
 Last summer I spent a few short hours at Riker's Island Correctional Facility
 together with a small group of volunteers from Columbia University.  We were
 there ostensibly to run an educational program. Wanting to move away from
@@ -180,43 +189,77 @@ the rise of the expository society happens through countless small, personal
 decisions, the answer must involve a collective response with the
 participation of every digital subject.
 
-I see at least three ways forward. Allow me to suggest them quickly.
+Reading the book against the archive of Harcourt's writings on free markets,
+the occupy movement, and incarceration, suggests several further avenues for
+exploration in search for dissent and disobedience.
 
-\- The war. My family moved to this country in 1991, at the end of the Cold
-War. Since then, the United States has found new enemies. And the country
-entered a state of perpetual war. Much of what Bernard describes in his book,
-is done in the name of extraordinary measures during wartime. Extraordinary
-measures are a favorite tools of tyrannies. Yet the anti-war rhetoric that
-defined generations of left-wing activists has receded into the background.
-Violence is perhaps more palatable now because it is hidden and dehumanized.
-The first way forward then is to renew our commitment to demilitarization.
+First, the war. We must not forget that the state of affairs Harcourt
+describes in his book are linked intimately with the mechanisms of perpetual
+warfare. They are born out of extraordinary measures evoked during wartime.
+The passage of the USA Patriot act in the wake of the 9/11 attacks, the
+Snowden revelations, the Cybersecurity Information Sharing Act tucked into the
+spending bill passed by the Congress at the end of 2015---these are connected
+events the lead to the same source. The ill-conceived bargain at the heart of
+all extraordinary measures would trade ideals central to democratic governance
+for security. War forces the hand. We are told that if we do not comply we
+would be vulnerable to grave danger. History tells us that rushed measures
+during seemingly exceptional times are a favorite tool of tyrannies. We do not
+live under a tyrannical regime today. Harcourt's book reminds us that we are
+however building infrastructures that could easily invite tyranny.
 
-\- Second, the dissolution of the Soviet Union heralded the decline of an
-ideology: namely statist socialsm and centrally-planned economy. Yet, we have
-yet to deal intellectually with the centralizing forces of capitalist
-economies. Monopoly has long been a staple of neo-liberalism. Entities like
-Google, Amazon, Uber, and AirBnB exert immense centralizing pressures on the
-marketplace, including the marketplace of ideas. From the engineering systems
-perspective, the alternative to such central structures is distribution. For
-this reason we see the emergence of distributed technologies like Diaspora
-(mentioned in the book), bit-torrent, bit-coin, Library Genesis, and
-Wikipedia. These are marked by an attempt to decentralize infrastructure. In
-parallel, we witness a resurgent interest in the earlier, abortive branch of
-anti-statist communism. Figures like Bakunin, Kropotkin, and Bookchin figure
-prominently in the conversation about technological resistance.
+In light of this danger, as real as the violence of terrorism, I am puzzled by
+the decline of the anti-war rhetoric.  Anti-war movements that defined a
+generation of conscientious dissenters is no longer a major motivating force
+for the politically active. According to a recent Gallup poll Americans worry
+most about issues like immigration, terrorism, income inequality, drug use,
+the size and power of federal government, the economy, and climate change. But
+not war. Violence is perhaps more palatable now because it is hidden and
+dehumanized by the use of night vision and remote controlled drones. But is it
+possible to restore the "lines between governance, commerce, surveillance, and
+private life" at home without addressing militarization abroad? I do not think
+so. Everything near is exposed in the process of reaching for that hidden and
+remote threat of terrorism. The perceived difficulty of blowing up an Afghani
+family on the "deposition matrix," the US kill list, justifies the ease of
+domestic surveillance. The one can never stop without the other. Without a
+renewed attention against propitiating violence abroad, we will be unable to
+stop the erosion of the civic society at home.
 
-Finally, Bernard's book makes it impossible not feel complicit in the
-system by which thousands of thousands of voluntary daily micro transactions,
-which in aggregate bring the expository society into existence. As a community
-that values intellectual independence, we must begin to align the sharp edge
-of critical theory with our practice. This includes the way we read, write,
-find, and share information online. For people who spend so much time in front
-of our computers in search for knowledge, we are remarkable alienated from the
+Second, the economy. The dissolution of the Soviet Union heralded the decline
+of an ideology: namely statist socialism and centrally-planned economy. We
+have yet to deal intellectually with the centralizing forces of capitalist
+economies. Entities like Google, Amazon, Uber, and AirBnB exert immense
+centralizing pressures on the marketplace, including the marketplace of ideas.
+The technologies Harcourt outlines in his book are all in some way related to
+the massive aggregation of data. They are both the cause and effect of
+economies in the process of centralization. Again I ask, is it possible to
+address massive surveillance programs without dealing with the underlying
+monopolies in the marketplace of information? From the engineering systems
+perspective, the alternative to such central structures is distribution. The
+emergence of distributed technologies is marked by an attempt to decentralize
+infrastructure. Witness Diaspora, a federated alternative to Facebook; bit
+torrent, a system for decentralized file sharing; bitcoin, peer to peer money;
+Library Genesis, community book collection and sharing; and Wikipedia, a
+peer-produced Internet encyclopedia. The architecture of decentralized
+communities follows a resurgent interest in the earlier, abortive branch of
+anti-statist communism. Figures like Mikhail Bakunin, Peter Kropotkin, and
+Murray Bookchin figure prominently in the conversation about technological
+resistance. A return to this intellectual tradition could fill the critical
+void in liberal thought.
+
+Finally, Harcourt's book makes it impossible not to feel complicit in the
+system by which countless small voluntary transactions, in aggregate, bring
+the expository society into existence. "Our desires and our passions have
+enslaved us," Harcourt writes. The emotional affirmation that accompanies
+exuberant social networking brings with it the very structures of surveillance
+and control that are used widely by law enforcement and national security
+agencies. As a community or reader and writers that value intellectual
+independence, we must begin to align the sharp edge of critical theory with
+our everyday practice. This includes the way we read, write, find, and share
+information online. For people who spend so much time in front of our
+computers in search for knowledge, we are remarkably alienated from the
 material contexts of knowledge production. *Exposed* reminds us of an
-uncomfortable truth and I am excited to continue the conversation about
-possible solutions.
-
-remain
-therefore keenly interested in the literal deconstruction of devices that
-surround us. I want to get to know them, just as much as they want to get to
-know me.
+uncomfortable truth at the heart of our everyday human--computer interaction.
+We know so little about the smart machines that are keen observe us in our
+kitchens, offices, and living rooms. Let's cultivate then a keen interest in
+their literal deconstruction: to learn how they are made, where their wires
+lead, and to strip the aura of fetishism that attaches itself to dumb devices.
