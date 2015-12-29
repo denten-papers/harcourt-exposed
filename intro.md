@@ -204,8 +204,8 @@ alone, but also out of the extraordinary measures evoked during wartime.  The
 passage of the USA Patriot act in the wake of the 9/11 attacks, the Snowden
 revelations, the Cybersecurity Information Sharing Act tucked into the
 spending bill passed by the Congress at the end of 2015---these are all
-connected events the lead to the same source, war. The ill-conceived bargain
-at the heart of all extraordinary measures would trade ideals central to
+connected events the lead to the same source, war. The ill-conceived barter at
+the heart of all extraordinary measures would trade ideals central to
 democratic governance for security. War forces our hand. We are told that if
 we do not comply we would be vulnerable to another terrorist attack. History
 tells us of a graver danger: tyranny, brought on by rushed measures during
@@ -274,11 +274,11 @@ strip the aura of fetishism that attaches itself to such magical devices we
 need to develop a healthy level of disrespect for dumb and inanimate things.
 
 Judging by consumer behavior, the machines that expose us are for the moment
-worth the asking price. They offer enough of a bargain to get past most
-personal ethical objections. I have no evidence that Amazon or Google intends
-to use their hubs and echoes for the purpose of surveillance.  There is no
-need to search for it either, because it is laid out openly, in the terms of
-service. The point is not to vilify technology. Given the chance to better see
+worth the asking price. They offer enough of a value to get past most personal
+ethical objections. I have no evidence that Amazon or Google intends to use
+their hubs and echoes for the purpose of surveillance.  There is no need to
+search for it either, because it is laid out openly, in the terms of service.
+The point is not to vilify technology. Given the chance to better see
 ourselves in the digital reflection, we will mount such mirrors in our living
 rooms willingly. The balance between vanity and civic virtue will tilt
 inevitably towards vanity. The burden of ethical reasoning lies on the part of
