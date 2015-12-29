@@ -60,17 +60,17 @@ consumption."
 
 A new logic of watching and being watched brings with it novel companions: the
 body double in the reflection of our devices, the quantified self, the ever
-vigilant artificially intelligent personal assistant. Where some wear ankle
-bracelet tracking devices in punishment, others strap on wrist bracelet
-tracking devices in the name of health and self discovery. Absent the noise of
-cell phones and Twitter feeds, the momentary quiet of a stairwell somewhere at
-Rikers evoked a visceral feeling of isolation. Rikers was scary not because it
-represented order but because compared to my usually compartmentalized and
-hyper-connected life it gave space to violence and disorder. "It sounds like
-I'm in a zoo with all of the birds chirping," wrote one of the young people.
-"Jail makes us feel deprived and cause vagueness---lacking definite form or
-character," the bot tweeted. "All the birds outside the windows make it so
-hard to hear anything."
+vigilant artificially intelligent personal assistant. Where some wear tracking
+ankle bracelets in punishment, others strap on tracking wrist bracelets in the
+name of health and self discovery. Absent the noise of cell phones and Twitter
+feeds, the momentary quiet of a stairwell somewhere at Rikers evoked a
+visceral feeling of isolation. Rikers was scary not because it represented
+order but because compared to my usually compartmentalized and hyper-connected
+life it gave space to violence and disorder. "It sounds like I'm in a zoo with
+all of the birds chirping," wrote one of the young people.  "Jail makes us
+feel deprived and cause vagueness---lacking definite form or character," the
+bot tweeted. "All the birds outside the windows make it so hard to hear
+anything."
 
 The expository society, as Harcourt calls this emerging assemblage of
 technology, practice, norms, and institutions, frustrates long-held intuitions
@@ -91,11 +91,11 @@ rather like an octopus from the badge of the US National Reconnaissance
 Office, one of the country's seventeen intelligence agencies. Instead of the
 panopticon we have a pavilion of glass and mirrors. More than an observation
 tower, the pavilion offers glimpses: it reflects, distorts, and provides for
-"pockets of obscurity." Like the ivory tower, the panopticon used to represent
-remote power. The metaphorical pavilion is close at hand. It is a place to
-watch and be watched; to play and to surveil. Instead of the uncanny body of
-the impostor double, Harcourt gives us the diligent data double. The data
-double lives in the spreadsheets of criminal justice statistics and
+"pockets of obscurity." Like the ivory tower, the panopticons of the past used
+to represent remote power. The metaphorical pavilion is close at hand. It is a
+place to watch and be watched; to play and to surveil. Instead of the uncanny
+body of the impostor double, Harcourt gives us the diligent data double. The
+data double lives in the spreadsheets of criminal justice statistics and
 advertising data used to train algorithms. It dutifully embodies our social
 media habits, our moods, movements, and our "click through" ratios.
 
@@ -191,11 +191,11 @@ these isolated strategies amount to a broader movement for digital resistance?
 Because the erosion of privacy and the rise of the expository society happens
 through countless small, personal decisions, the answer must involve a
 collective response with the participation of every digital subject. The book
-ends there, compelling the reader to action.
+ends there, calling the reader to action.
 
 What is to be done? Compelled by Harcourt's call to action I suggest the
-following several avenues for exploration in search for viable models of
-dissent and disobedience.
+following several avenues for exploration in search for viable models for
+digital dissent.
 
 First, the war. We must not forget that the state of affairs Harcourt
 describes in his book is linked intimately with the armaments of perpetual
@@ -210,8 +210,8 @@ democratic governance for security. War forces our hand. We are told that if
 we do not comply we would be vulnerable to another terrorist attack. History
 tells us of a graver danger: tyranny, brought on by rushed measures during
 seemingly exceptional times. We do not live under a tyrannical regime today.
-Harcourt's book identifies infrastructures that have the potential to invite
-tyranny.
+But Harcourt's book does identify infrastructures that have the potential to
+invite tyranny.
 
 In light of this danger, no less real or pressing than terrorism, I am puzzled
 by the decline of the anti-war movement. Anti-war rhetoric that defined a
@@ -220,12 +220,12 @@ for the politically active. According to a recent Gallup poll Americans worry
 most about issues like immigration, terrorism, income inequality, drug use,
 the size and power of federal government, the economy, and climate change. But
 not war. Violence is perhaps more palatable now because it is hidden and
-dehumanized by the use of technology like night vision, "precision" strikes,
-and remote drone warfare. But is it possible to restore the "lines between
-governance, commerce, surveillance, and private life" at home without
-addressing militarization abroad? I do not think so. Everything near is
-exposed in the process of reaching for that hidden and remote threat of
-terrorism. The perceived difficulty of blowing up an Afghani family on the
+dehumanized by the use of technologies like night vision, "precision" strikes,
+and remote drone warfare. But is it possible to restore, in Harcourt's words,
+"lines between governance, commerce, surveillance, and private life" at home
+without addressing militarization abroad? I do not think so. Everything near
+will be exposed in the process of reaching for that hidden and remote threat
+of terrorism. The perceived difficulty of blowing up an Afghani family on the
 "deposition matrix," the US kill list, is used to justify the ease of domestic
 surveillance. The expository reach reveals all, from here to there. Failing to
 cease the continual projection of violence abroad, we will be forever unable
@@ -254,10 +254,10 @@ the conversation about technological resistance. A wider return to this
 intellectual tradition could fill the critical void left in liberal thought by
 the decline of communism.
 
-Finally, Harcourt's book makes it impossible not to feel complicit in the
-system by which countless small voluntary transactions, in aggregate, bring
-the expository society into existence. "Our desires and our passions have
-enslaved us," Harcourt writes. The emotional affirmation that accompanies
+Finally, Harcourt's book makes it impossible not to feel personally complicit
+in the system by which countless small voluntary transactions, in aggregate,
+bring the expository society into existence. "Our desires and our passions
+have enslaved us," Harcourt writes. The emotional affirmation that accompanies
 exuberant social networking brings with it the very structures of surveillance
 and control that are used widely by law enforcement and national security
 agencies. As a community of readers and writers that value intellectual
@@ -271,19 +271,20 @@ so little about the smart machines that observe us in our kitchens, offices,
 and living rooms. Let us cultivate then a keen interest in their literal
 deconstruction, to learn how they are made and where their wires lead.  To
 strip the aura of fetishism that attaches itself to such magical devices we
-need to develop a healthy level of disrespect for dumb and inanimate things.
+need to develop a healthy level of detachment from dumb and inanimate things.
 
 Judging by consumer behavior, the machines that expose us are for the moment
-worth the asking price. They offer enough of a value to get past most personal
-ethical objections. I have no evidence that Amazon or Google intends to use
-their hubs and echoes for the purpose of surveillance.  There is no need to
-search for it either, because it is laid out openly, in the terms of service.
-The point is not to vilify technology. Given the chance to better see
-ourselves in the digital reflection, we will mount such mirrors in our living
-rooms willingly. The balance between vanity and civic virtue will tilt
-inevitably towards vanity. The burden of ethical reasoning lies on the part of
-an informed public. But for now, being informed is less fun than watching a
-smart TV. Harcourt does a masterful job at identifying desire as the engine
-that powers the voluntary surveillance conundrum. Dissent will remain the
-purview of a select few until the pain of tyranny overwhelms the pleasure of
+worth the asking price. They offer enough of a value to overcome the ethical
+imperative. I have no evidence that Amazon or Google intends to use their hubs
+and echoes for the purpose of surveillance.  There is no need to search for it
+either, because it is laid out openly, in the terms of service. We are far
+past the point of caring about the number of cameras or microphones already in
+action. The idea is not to vilify technology. Harcourt does a masterful job
+identifying desire as the engine that powers the voluntary surveillance
+conundrum. Given the chance to better see ourselves in the digital reflection,
+we will willingly mount many mirrors. The balance between vanity and civic
+virtue tilts inevitably towards vanity. The burden of ethical reasoning lies
+ultimately on the part of an informed public. But for now, being informed is
+still less fun than watching a smart TV. Consequently, dissent remains the
+purview of a select few, until the pain of tyranny overwhelms the pleasure of
 mass exposure.
