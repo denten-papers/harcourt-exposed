@@ -1,6 +1,6 @@
 ---
 title: "Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by Bernard Harcourt"
-subtitle: "Ways of Opting Out"
+subtitle: "Opting Out"
 mainfont: "fbb"
 fontsize: 12pt
 documentclass: article
