@@ -34,17 +34,17 @@ riot gear, past other guards eating breakfast, and through hallways lined with
 hand-written bills about job safety, potlucks, and charity football games.
 
 We were on the way to a wing of the building which housed the classrooms. But
-at some point, while walking up a staircase, our guide ducked out into a side
-door, which locked behind her. We waited in the staircase. We knew where we
+at some point, while walking up the stairs, our guide ducked out into a side
+door, which locked behind her. We waited in the stairwell. We knew where we
 had to go, but the doors ahead of us and behind were locked. Standing there
 quietly, together, we understood something about the jail. Despite the guards
 and the cameras, it was not a place of total surveillance. The building stood
-in isolation from the outside world. Our presence here was registered by hand
-in a notebook. We traded our state issued identification for a piece of paper
-and a stamp. We left no digital trace. In short, no one really knew we were
-here.
+in isolation from the outside world. Our presence here was registered in a
+notebook by hand. We traded our state issued identification for a piece of
+paper and a stamp. We left no digital trace. In short, no one really knew we
+were here.
 
-A moment of silence in the stairwell punctuated the paradox at the center of
+A moment of silence on the stairs punctuated the paradox at the center of
 Bernard Harcourt's recent book, *Exposed: Desire and Disobedience in the
 Digital Age*. Real and imaginary panopticons of incarceration from centuries
 past pale in comparison with those that surround us today. Rather than
@@ -63,10 +63,10 @@ body double in the reflection of our devices, the quantified self, the ever
 vigilant artificially intelligent personal assistant. Where some wear ankle
 bracelet tracking devices in punishment, others strap on wrist bracelet
 tracking devices in the name of health and self discovery. Absent the noise of
-cell phones and Twitter feeds, the momentary quiet of a stairway somewhere at
+cell phones and Twitter feeds, the momentary quiet of a stairwell somewhere at
 Rikers evoked a visceral feeling of isolation. Rikers was scary not because it
 represented order but because compared to my usually compartmentalized and
-hyper-connected life it gave room to violence and disorder. "It sounds like
+hyper-connected life it gave space to violence and disorder. "It sounds like
 I'm in a zoo with all of the birds chirping," wrote one of the young people.
 "Jail makes us feel deprived and cause vagueness---lacking definite form or
 character," the bot tweeted. "All the birds outside the windows make it so
@@ -102,12 +102,12 @@ media habits, our moods, movements, and our "click through" ratios.
 We have only begun to understand the personal and political implications of
 the expository society in which surveillance is both more total and more
 voluntary than was ever imagined. The nightmare of George Orwell's *1984* is
-in some ways less intrusive than the reality of 2016. Harcourt book ultimately
-points to the desire at the root of our need for exposure. Total surveillance
-turns out to be pretty enjoyable: Watch people do weird shit online! Share
-your love for perfectly stacked pancakes with friends! We trade privacy in
-return for these small bits of fun. Harcourt's work points to the desire at
-the center of the voluntary exposure conundrum. It is a staggering insight:
+in some ways less intrusive than the reality of 2016. Harcourt's book
+ultimately points to the desire at the root of our need for exposure. Total
+surveillance turns out to be pretty enjoyable: Watch people do weird shit
+online! Share your love for perfectly stacked pancakes with friends! We trade
+privacy in return for these small bits of fun. Harcourt's work points to the
+dynamics desire hat lead to voluntary exposure. It is a staggering insight:
 soon, there will be no need to incarcerate. "We will all be watched closely,"
 he writes. "We won't need to confine anyone, because we will be able to see
 everywhere" and perhaps even "control behavior from a distance."
@@ -126,10 +126,10 @@ by engineers at IFIXIT revealed 13 antennas, along with an ambient light
 sensor inside.
 
 The second is called Echo, by Amazon. This one is a bit trickier. It is an
-artificially intelligent personal, along the lines Apple's Siri or Microsoft's
-Cortana, but in its own sleek speaker cabinet, meant for the living room. It
-listens, plays music, and answers questions. "Amazon Echo is designed around
-your voice," the marketing materials read:
+artificially intelligent personal assistant, similar to Apple's Siri or
+Microsoft's Cortana, but housed in its own sleek speaker cabinet, meant for
+the living room. It listens, plays music, and answers questions. "Amazon Echo
+is designed around your voice," the marketing materials read:
 
 > It's hands-free and always on. Tucked under the light ring on Echo is an
 > array of seven microphones. These sensors use beam-forming technology to
@@ -152,13 +152,13 @@ enabled by the above devices. In 2014, researchers from UC Berkley published a
 paper titled "SoundLoc: Acoustic Method for Indoor Localization without
 Infrastructure." The researchers write that: "SoundLoc is a room-level
 localization system that exploits the intrinsic acoustic properties of
-individual rooms and obviates the needs for infrastructures." Using something
-called the "Room Impulse Response measurement system" the researchers develop
-an algorithm that uses ordinary microphones found on our laptops and
-cellphones to create a "sound fingerprint" for each room and to identify the
-location of its occupants. One would surmise that the seven microphones and
-the powerful speakers that the Echo carries would make the device particularly
-well suited for echolocation, tracking, and fingerprinting of domestic spaces.
+individual rooms and obviates the needs for infrastructures." Calling it the
+"Room Impulse Response measurement system," the researchers develop an
+algorithm that uses ordinary microphones found on our laptops and cellphones
+to create a "sound fingerprint" for each room and to identify the location of
+its occupants. One would surmise that the seven microphones and the powerful
+speakers that the Echo carries would make the device particularly well suited
+for such echolocation, tracking, and fingerprinting of domestic spaces.
 
 In 2013, a group from MIT published a similar paper titled "See through walls
 with WiFi!" "For many years humans have fantasized about X-ray vision," the
@@ -167,7 +167,7 @@ ordinary router? As it turns out, yes: "We present Wi-Vi, a wireless
 technology that uses Wi-Fi signals to detect moving humans behind walls in
 closed rooms." Just a few years ago, the very idea of mapping rooms with
 microphones or tracking humans behind closed doors with wireless signals would
-be relegated to the pages of an Ian Fleming novel. Further, the suggestion
+be relegated to the pages of novel by Ian Fleming. The suggestion
 that consumers would voluntarily place such capable devices in the middle of
 their living rooms defies belief still, despite the evidence. Where a bug in a
 hotel room caused scandals in the Nixon era, inviting a beastie that carries
@@ -188,10 +188,10 @@ watchers? Acts of whistle-blowers like Chelsea Manning and publishers like
 Julian Assange suggest a way forward. So do strategies of obfuscation
 described in the recent volume by Finn Brunton and Helen Nissenbaum. But can
 these isolated strategies amount to a broader movement for digital resistance?
-The book ends there, calling the reader to action.  Because the erosion of
-privacy and the rise of the expository society happens through countless
-small, personal decisions, the answer must involve a collective response with
-the participation of every digital subject.
+Because the erosion of privacy and the rise of the expository society happens
+through countless small, personal decisions, the answer must involve a
+collective response with the participation of every digital subject. The book
+ends there, compelling the reader to action.
 
 What is to be done? Compelled by Harcourt's call to action I suggest the
 following several avenues for exploration in search for viable models of
@@ -204,14 +204,14 @@ alone, but also out of the extraordinary measures evoked during wartime.  The
 passage of the USA Patriot act in the wake of the 9/11 attacks, the Snowden
 revelations, the Cybersecurity Information Sharing Act tucked into the
 spending bill passed by the Congress at the end of 2015---these are all
-connected events the lead to the same source. The ill-conceived bargain at the
-heart of all extraordinary measures would trade ideals central to democratic
-governance for security. War forces our hand. We are told that if we do not
-comply we would be vulnerable to another terrorist attack. History tells us of
-a graver danger: tyranny, brought on by rushed measures during seemingly
-exceptional times. We do not live under a tyrannical regime today. But as
-Harcourt book reminds us, we are building infrastructures that could easily
-invite tyranny.
+connected events the lead to the same source, war. The ill-conceived bargain
+at the heart of all extraordinary measures would trade ideals central to
+democratic governance for security. War forces our hand. We are told that if
+we do not comply we would be vulnerable to another terrorist attack. History
+tells us of a graver danger: tyranny, brought on by rushed measures during
+seemingly exceptional times. We do not live under a tyrannical regime today.
+Harcourt's book identifies infrastructures that have the potential to invite
+tyranny.
 
 In light of this danger, no less real or pressing than terrorism, I am puzzled
 by the decline of the anti-war movement. Anti-war rhetoric that defined a
@@ -228,8 +228,8 @@ exposed in the process of reaching for that hidden and remote threat of
 terrorism. The perceived difficulty of blowing up an Afghani family on the
 "deposition matrix," the US kill list, is used to justify the ease of domestic
 surveillance. The expository reach reveals all, from here to there. Failing to
-cease the continual projection of violence abroad, we will be unable to stop
-the erosion of civic society at home.
+cease the continual projection of violence abroad, we will be forever unable
+to stop the erosion of civic society at home.
 
 Second, the economy. The dissolution of the Soviet Union heralded the decline
 of an ideology: namely statist socialism and central planning. We have yet to
@@ -247,12 +247,12 @@ infrastructure. Witness Diaspora, a federated alternative to Facebook; bit
 torrent, a system for decentralized file sharing; bitcoin, peer to peer money;
 Library Genesis, community book collection and sharing; and Wikipedia, a
 peer-produced Internet encyclopedia. The architecture of decentralized
-communities follows a resurgent interest in the earlier, hitherto somewhat
-abortive branch of anti-statist socialism. Thinkers like Mikhail Bakunin,
-Peter Kropotkin, and Murray Bookchin are making a comeback, figuring
-prominently in the conversation about technological resistance. A wider return
-to this intellectual tradition could fill the critical void left in liberal
-thought by the decline of communism.
+communities follows a resurgent interest in the earlier, hitherto abortive
+branch of anti-statist socialism. Thinkers like Mikhail Bakunin, Peter
+Kropotkin, and Murray Bookchin are making a comeback, figuring prominently in
+the conversation about technological resistance. A wider return to this
+intellectual tradition could fill the critical void left in liberal thought by
+the decline of communism.
 
 Finally, Harcourt's book makes it impossible not to feel complicit in the
 system by which countless small voluntary transactions, in aggregate, bring
@@ -262,28 +262,28 @@ exuberant social networking brings with it the very structures of surveillance
 and control that are used widely by law enforcement and national security
 agencies. As a community of readers and writers that value intellectual
 independence, we must begin to align the sharp edge of critical theory with
-our everyday practice. This includes the way we read, write, find, and share
+everyday practice. This includes the way we read, write, find, and share
 information online. For people who spend so much time in front of our
 computers in search for knowledge, we are remarkably alienated from the
 material contexts of knowledge production. *Exposed* reminds us of an
-uncomfortable truth at the center of everyday human--computer interaction. We
-know so little about the smart machines that observe us in our kitchens,
-offices, and living rooms. Let us cultivate then a keen interest in their
-literal deconstruction to learn how they are made and where their wires lead.
-To strip the aura of fetishism that attaches itself to such magical devices we
+uncomfortable truth at work in everyday human--computer interaction. We know
+so little about the smart machines that observe us in our kitchens, offices,
+and living rooms. Let us cultivate then a keen interest in their literal
+deconstruction, to learn how they are made and where their wires lead.  To
+strip the aura of fetishism that attaches itself to such magical devices we
 need to develop a healthy level of disrespect for dumb and inanimate things.
 
-Judging by consumer behavior, the machines that surround our everyday life are
-for the moment worth the price that we pay. They offer enough of a bargain to
-get past most personal ethical objections. I have no evidence that Amazon or
-Google intends to use their hubs and echoes for the purpose of surveillance.
-There is no need to search for it either, because it is laid out openly, in
-the terms of service. The point is not to vilify technology. Given the chance
-to better see ourselves in the digital reflection, we will mount such mirrors
-in our living rooms willingly. The balance between vanity and civic virtue
-will tilt inevitably towards vanity. The burden of ethical reasoning lies on
-the part of an informed public. But for now, being informed is less fun than
-watching a smart TV. Harcourt does a masterful job at locating desire as the
-key to the voluntary surveillance conundrum. Dissent will remain the purview
-of a select few until the pain of tyranny overwhelms the pleasure of mass
-exposure.
+Judging by consumer behavior, the machines that expose us are for the moment
+worth the asking price. They offer enough of a bargain to get past most
+personal ethical objections. I have no evidence that Amazon or Google intends
+to use their hubs and echoes for the purpose of surveillance.  There is no
+need to search for it either, because it is laid out openly, in the terms of
+service. The point is not to vilify technology. Given the chance to better see
+ourselves in the digital reflection, we will mount such mirrors in our living
+rooms willingly. The balance between vanity and civic virtue will tilt
+inevitably towards vanity. The burden of ethical reasoning lies on the part of
+an informed public. But for now, being informed is less fun than watching a
+smart TV. Harcourt does a masterful job at identifying desire as the engine
+that powers the voluntary surveillance conundrum. Dissent will remain the
+purview of a select few until the pain of tyranny overwhelms the pleasure of
+mass exposure.
